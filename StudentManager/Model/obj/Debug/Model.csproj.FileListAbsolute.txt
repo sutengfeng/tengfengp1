@@ -1,0 +1,5 @@
+c:\users\morlab\documents\visual studio 2015\Projects\StudentManager\Model\bin\Debug\Model.dll
+c:\users\morlab\documents\visual studio 2015\Projects\StudentManager\Model\bin\Debug\Model.pdb
+c:\users\morlab\documents\visual studio 2015\Projects\StudentManager\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\morlab\documents\visual studio 2015\Projects\StudentManager\Model\obj\Debug\Model.dll
+c:\users\morlab\documents\visual studio 2015\Projects\StudentManager\Model\obj\Debug\Model.pdb

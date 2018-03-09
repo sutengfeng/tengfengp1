@@ -1,0 +1,7 @@
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\DAL\bin\x86\Debug\DAL.dll
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\DAL\bin\x86\Debug\DAL.pdb
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\DAL\bin\x86\Debug\Model.dll
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\DAL\bin\x86\Debug\Model.pdb
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\DAL\obj\x86\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\DAL\obj\x86\Debug\DAL.dll
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\DAL\obj\x86\Debug\DAL.pdb

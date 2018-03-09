@@ -1,0 +1,4 @@
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\Model\bin\x86\Debug\Model.dll
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\Model\bin\x86\Debug\Model.pdb
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\Model\obj\x86\Debug\Model.dll
+C:\Users\Morlab\Documents\Visual Studio 2015\Projects\StudentManager\Model\obj\x86\Debug\Model.pdb
